@@ -27,6 +27,10 @@ def search():
 
     return jsonify(results)
 
-
 if __name__ == "__main__":
-    app.run(port=5000, debug=True)
+    import os
+
+    # Render injects a PORT environment variable automatically
+    port = int(os.environ.get("PORT", 5000))
+    # Must bind to 0.0.0.0 to accept external internet packets
+    app.run(host="0.0.0.0", port=port)
