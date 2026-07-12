@@ -19,12 +19,12 @@ def search():
             [{"title": "Database Empty", "snippet": "Run crawler.py first!", "url": ""}]
         )
 
-    # Search filtering rules (Check match in title or snippet text)
-    results = []
-    for item in database:
-        if query in item["title"].lower() or query in item["snippet"].lower():
-            results.append(item)
-
+    
+   # Search filtering rules (Check match in title or snippet text)
+results = []
+for item in database:
+    if query in item["title"].lower() or query in item["snippet"].lower() or query in item["url"].lower():
+        results.append(item)
     return jsonify(results)
 
 if __name__ == "__main__":
