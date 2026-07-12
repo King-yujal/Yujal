@@ -1,0 +1,77 @@
+[
+    {
+        "url": "https://wikipedia.org",
+        "title": "Wikipedia",
+        "snippet": "You deserve an explanation, so please don't skip this 1-minute read. Our fundraiser won't last long, and we need some help to reach our goal. Less tha"
+    },
+    {
+        "url": "https://en.wikipedia.org/",
+        "title": "Wikipedia, the free encyclopedia",
+        "snippet": "Since 1985, Liverpool Football Club has seen the appointment of Kenny Dalglish as manager, the Hillsborough disaster, and the club's return to Europea"
+    },
+    {
+        "url": "https://ja.wikipedia.org/",
+        "title": "Wikipedia",
+        "snippet": "\u30ed\u30d9\u30eb\u30c8\u30fb\u30a2\u30ec\u30af\u30b5\u30f3\u30c0\u30fc\u30fb\u30b7\u30e5\u30fc\u30de\u30f3\uff08Robert Alexander Schumann, 1810\u5e746\u67088\u65e5 - 1856\u5e747\u670829\u65e5\uff09\u306f\u3001\u30c9\u30a4\u30c4\u30fb\u30ed\u30de\u30f3\u6d3e\u3092\u4ee3\u8868\u3059\u308b\u4f5c\u66f2\u5bb6\u3002\u30d9\u30fc\u30c8\u30fc\u30f4\u30a7\u30f3\u3084\u30b7\u30e5\u30fc\u30d9\u30eb\u30c8\u306e\u97f3\u697d\u306e\u30ed\u30de\u30f3\u7684\u5f8c\u7d99\u8005\u3068\u3057\u3066\u4f4d\u7f6e\u3065\u3051\u3089\u308c\u3001\u4ea4\u97ff\u66f2\u304b\u3089\u5408\u5531\u66f2\u307e\u3067\u5e45\u5e83\u3044\u5206\u91ce\u3067\u4f5c\u54c1\u3092\u6b8b\u3057\u305f\u3002\u3068\u304f\u306b\u30d4"
+    },
+    {
+        "url": "https://de.wikipedia.org/",
+        "title": "Wikipedia \u2013 Die freie Enzyklop\u00e4die",
+        "snippet": "Wikipedia ist ein Projekt zum Aufbau einer Enzyklop\u00e4die aus freien Inhalten, zu denen du sehr gern beitragen kannst. Seit M\u00e4rz 2001 sind 3.135.235\u00a0Art"
+    },
+    {
+        "url": "https://ru.wikipedia.org/",
+        "title": "\u0412\u0438\u043a\u0438\u043f\u0435\u0434\u0438\u044f\u00a0\u2014 \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u0430\u044f \u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044f",
+        "snippet": "\u0441\u0432\u043e\u0431\u043e\u0434\u043d\u0443\u044e \u044d\u043d\u0446\u0438\u043a\u043b\u043e\u043f\u0435\u0434\u0438\u044e, \u043a\u043e\u0442\u043e\u0440\u0443\u044e \u043c\u043e\u0436\u0435\u0442 \u0440\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043a\u0430\u0436\u0434\u044b\u0439."
+    },
+    {
+        "url": "https://fr.wikipedia.org/",
+        "title": "Wikip\u00e9dia, l'encyclop\u00e9die libre",
+        "snippet": "L'encyclop\u00e9die libre que vous pouvez am\u00e9liorer"
+    },
+    {
+        "url": "https://es.wikipedia.org/",
+        "title": "Wikipedia, la enciclopedia libre",
+        "snippet": "la enciclopedia de contenido libreque todos pueden editar."
+    },
+    {
+        "url": "https://zh.wikipedia.org/",
+        "title": "\u7ef4\u57fa\u767e\u79d1\uff0c\u81ea\u7531\u7684\u767e\u79d1\u5168\u4e66",
+        "snippet": ""
+    },
+    {
+        "url": "https://it.wikipedia.org/",
+        "title": "Wikipedia, l'enciclopedia libera",
+        "snippet": "Benvenuti su Wikipedia\n\nL'enciclopedia libera e collaborativa"
+    },
+    {
+        "url": "https://pl.wikipedia.org/",
+        "title": "Wikipedia, wolna encyklopedia",
+        "snippet": "Z nowych i ostatnio rozbudowanych artyku\u0142\u00f3w w Wikipedii:"
+    },
+    {
+        "url": "https://pt.wikipedia.org/",
+        "title": "Wikip\u00e9dia, a enciclop\u00e9dia livre",
+        "snippet": "a enciclop\u00e9dia livre que todos podem editar."
+    },
+    {
+        "url": "https://ar.wikipedia.org/",
+        "title": "\u0648\u064a\u0643\u064a\u0628\u064a\u062f\u064a\u0627\u060c \u0627\u0644\u0645\u0648\u0633\u0648\u0639\u0629 \u0627\u0644\u062d\u0631\u0629",
+        "snippet": "\u0645\u0634\u0631\u0648\u0639 \u0645\u0648\u0633\u0648\u0639\u0629 \u062d\u0631\u0629 \u064a\u0633\u062a\u0637\u064a\u0639 \u0627\u0644\u062c\u0645\u064a\u0639 \u062a\u062d\u0631\u064a\u0631\u0647\u0627. \u062a\u0648\u062c\u062f \u0627\u0644\u0622\u0646 1\u066c323\u066c398 \u0645\u0642\u0627\u0644\u0629 \u0628\u0627\u0644\u0639\u0631\u0628\u064a\u0629."
+    },
+    {
+        "url": "https://fa.wikipedia.org/",
+        "title": "\u0648\u06cc\u06a9\u06cc\u200c\u067e\u062f\u06cc\u0627\u060c \u062f\u0627\u0646\u0634\u0646\u0627\u0645\u0647\u0654 \u0622\u0632\u0627\u062f",
+        "snippet": "\u0644\u06cc\u0644\u0627 \u062d\u0627\u062a\u0645\u06cc (\u0632\u0627\u062f\u0647\u0654 \u06f9 \u0645\u0647\u0631 \u06f1\u06f3\u06f5\u06f1) \u0628\u0627\u0632\u06cc\u06af\u0631 \u0627\u06cc\u0631\u0627\u0646\u06cc \u0627\u0633\u062a. \u0627\u0648 \u0631\u0627 \u06cc\u06a9\u06cc \u0627\u0632 \u0628\u0631\u062a\u0631\u06cc\u0646 \u0628\u0627\u0632\u06cc\u06af\u0631\u0627\u0646 \u0632\u0646 \u0627\u06cc\u0631\u0627\u0646\u06cc \u062f\u0627\u0646\u0633\u062a\u0647\u200c\u0627\u0646\u062f \u0648 \u0627\u0633\u0627\u0633\u0627\u064b \u0628\u0627\u0628\u062a \u0646\u0642\u0634\u200c\u0622\u0641\u0631\u06cc\u0646\u06cc\u200c\u0647\u0627\u06cc \u0648\u0627\u0642\u0639\u200c\u06af\u0631\u0627\u06cc\u0627\u0646\u0647 \u062f\u0631 \u0627\u0646\u0648\u0627\u0639 "
+    },
+    {
+        "url": "https://arz.wikipedia.org/",
+        "title": "\u0648\u064a\u0643\u064a\u0628\u064a\u062f\u064a\u0627",
+        "snippet": ""
+    },
+    {
+        "url": "https://nl.wikipedia.org/",
+        "title": "Wikipedia, de vrije encyclopedie",
+        "snippet": ""
+    }
+]
