@@ -161,7 +161,7 @@
 
             try {
                 // Fixed connection pathway using localhost instead of raw 127.0.0.1
-             const response = await fetch(`https://onrender.com${encodeURIComponent(query)};`)
+             const response = await fetch(`https://yujal-search.onrender.com/search?q=\${encodeURIComponent(query)}`);
                 const matches = await response.json();
 
                 displayArea.innerHTML = ""; // Wipe loading announcement text clean
